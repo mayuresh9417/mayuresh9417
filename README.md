@@ -6,6 +6,4 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=mayuresh9417&show_icons=true&hide_border=true&theme=transparent" />
-
-<img src="https://streak-stats.demolab.com?user=mayuresh9417&hide_border=true&theme=transparent" />
+![GitHub Streak](https://streak-stats.demolab.com?user=mayuresh9417&hide_border=true&theme=transparent)
