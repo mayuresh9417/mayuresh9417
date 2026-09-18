@@ -1,7 +1,5 @@
-### 👋 Hello, I'm
+### 👋 Hi, my name is
 
 # `Mayuresh Madhavi`
 
-> Building • Learning • Improving
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Java+Developer;IT+Engineering+Student;Always+Learning+%26+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=600&lines=IT+Engineering+Student;Developer;Always+Building;Always+Learning;Always+Improving" alt="Typing SVG" />
